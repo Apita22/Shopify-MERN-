@@ -1,3 +1,1 @@
-# proshop
- 
-"# Shopify-MERN-" 
+# Shopify-MERN-

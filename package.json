@@ -1,5 +1,5 @@
 {
-  "name": "proshop",
+  "name": "Shopify(MERN)",
   "version": "1.0.0",
   "description": "MERN shopping cart app",
   "main": "server.js",
@@ -12,7 +12,7 @@
     "data:import": "node backend/seeder",
     "data:destroy": "node backend/seeder -d"
   },
-  "author": "manish",
+  "author": "Arpita",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
